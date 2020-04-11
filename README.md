@@ -1,4 +1,4 @@
 # nlp2020
- homework and more for nlp2020
+ Homework and more for nlp2020
  
- implement of algos
+ Implementation of NLP algorithms
